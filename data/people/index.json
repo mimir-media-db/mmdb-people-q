@@ -1,113 +1,216 @@
 [
   {
-    "id": "p_q_allan_brocka"
+    "id": "p_q_allan_brocka",
+    "name": "Q. Allan Brocka",
+    "birth_year": 1971,
+    "path": "data/people/p_q_allan_brocka.json"
   },
   {
-    "id": "p_q131784872"
+    "id": "p_q131784872",
+    "name": "Q131784872",
+    "path": "data/people/p_q131784872.json"
   },
   {
-    "id": "p_q131784900"
+    "id": "p_q131784900",
+    "name": "Q131784900",
+    "birth_year": 1948,
+    "path": "data/people/p_q131784900.json"
   },
   {
-    "id": "p_q16727587"
+    "id": "p_q16727587",
+    "name": "Q16727587",
+    "path": "data/people/p_q16727587.json"
   },
   {
-    "id": "p_q21229383"
+    "id": "p_q21229383",
+    "name": "Q21229383",
+    "birth_year": 1958,
+    "path": "data/people/p_q21229383.json"
   },
   {
-    "id": "p_q7346845"
+    "id": "p_q7346845",
+    "name": "Q7346845",
+    "birth_year": 1952,
+    "path": "data/people/p_q7346845.json"
   },
   {
-    "id": "p_qasem_zareh"
+    "id": "p_qasem_zareh",
+    "name": "Qasem Zareh",
+    "birth_year": 1957,
+    "path": "data/people/p_qasem_zareh.json"
   },
   {
-    "id": "p_qazal_saremi"
+    "id": "p_qazal_saremi",
+    "name": "Qazal Saremi",
+    "birth_year": 1978,
+    "path": "data/people/p_qazal_saremi.json"
   },
   {
-    "id": "p_qi_qi"
+    "id": "p_qi_qi",
+    "name": "Qi Qi",
+    "birth_year": 1967,
+    "path": "data/people/p_qi_qi.json"
   },
   {
-    "id": "p_qin_hailu"
+    "id": "p_qin_hailu",
+    "name": "Qin Hailu",
+    "birth_year": 1978,
+    "path": "data/people/p_qin_hailu.json"
   },
   {
-    "id": "p_qin_shaobo"
+    "id": "p_qin_shaobo",
+    "name": "Qin Shaobo",
+    "birth_year": 1981,
+    "path": "data/people/p_qin_shaobo.json"
   },
   {
-    "id": "p_qiu_li"
+    "id": "p_qiu_li",
+    "name": "Qiu Li",
+    "birth_year": 1981,
+    "path": "data/people/p_qiu_li.json"
   },
   {
-    "id": "p_qiyomiddin_chaqalov"
+    "id": "p_qiyomiddin_chaqalov",
+    "name": "Qiyomiddin Chaqalov",
+    "birth_year": 1945,
+    "path": "data/people/p_qiyomiddin_chaqalov.json"
   },
   {
-    "id": "p_qorianka_kilcher"
+    "id": "p_qorianka_kilcher",
+    "name": "Q'orianka Kilcher",
+    "birth_year": 1990,
+    "path": "data/people/p_qorianka_kilcher.json"
   },
   {
-    "id": "p_qtip"
+    "id": "p_qtip",
+    "name": "Q-Tip",
+    "birth_year": 1970,
+    "path": "data/people/p_qtip.json"
   },
   {
-    "id": "p_qu_ying"
+    "id": "p_qu_ying",
+    "name": "Qu Ying",
+    "birth_year": 1971,
+    "path": "data/people/p_qu_ying.json"
   },
   {
-    "id": "p_quach_thu_phuong"
+    "id": "p_quach_thu_phuong",
+    "name": "Quách Thu Phương",
+    "birth_year": 1976,
+    "path": "data/people/p_quach_thu_phuong.json"
   },
   {
-    "id": "p_quan_phillips"
+    "id": "p_quan_phillips",
+    "name": "Quan Phillips",
+    "path": "data/people/p_quan_phillips.json"
   },
   {
-    "id": "p_quang_thang"
+    "id": "p_quang_thang",
+    "name": "Quang Thắng",
+    "birth_year": 1967,
+    "path": "data/people/p_quang_thang.json"
   },
   {
-    "id": "p_queen_latifah"
+    "id": "p_queen_latifah",
+    "name": "Queen Latifah",
+    "birth_year": 1970,
+    "path": "data/people/p_queen_latifah.json"
   },
   {
-    "id": "p_quentin_baillot"
+    "id": "p_quentin_baillot",
+    "name": "Quentin Baillot",
+    "birth_year": 1952,
+    "path": "data/people/p_quentin_baillot.json"
   },
   {
-    "id": "p_quentin_dupieux"
+    "id": "p_quentin_dupieux",
+    "name": "Quentin Dupieux",
+    "birth_year": 1974,
+    "path": "data/people/p_quentin_dupieux.json"
   },
   {
-    "id": "p_quentin_lee"
+    "id": "p_quentin_lee",
+    "name": "Quentin Lee",
+    "birth_year": 1970,
+    "path": "data/people/p_quentin_lee.json"
   },
   {
-    "id": "p_quentin_tarantino"
+    "id": "p_quentin_tarantino",
+    "name": "Quentin Tarantino",
+    "birth_year": 1963,
+    "path": "data/people/p_quentin_tarantino.json"
   },
   {
-    "id": "p_questlove"
+    "id": "p_questlove",
+    "name": "Questlove",
+    "birth_year": 1971,
+    "path": "data/people/p_questlove.json"
   },
   {
-    "id": "p_quia_rodrigues"
+    "id": "p_quia_rodrigues",
+    "name": "Quiá Rodrigues",
+    "path": "data/people/p_quia_rodrigues.json"
   },
   {
-    "id": "p_quimet_pla"
+    "id": "p_quimet_pla",
+    "name": "Quimet Pla",
+    "birth_year": 1950,
+    "path": "data/people/p_quimet_pla.json"
   },
   {
-    "id": "p_quinn_collins"
+    "id": "p_quinn_collins",
+    "name": "Quinn Collins",
+    "path": "data/people/p_quinn_collins.json"
   },
   {
-    "id": "p_quinn_shephard"
+    "id": "p_quinn_shephard",
+    "name": "Quinn Shephard",
+    "birth_year": 1995,
+    "path": "data/people/p_quinn_shephard.json"
   },
   {
-    "id": "p_quinten_schram"
+    "id": "p_quinten_schram",
+    "name": "Quinten Schram",
+    "birth_year": 1992,
+    "path": "data/people/p_quinten_schram.json"
   },
   {
-    "id": "p_quinton_jones"
+    "id": "p_quinton_jones",
+    "name": "Quinton Jones",
+    "path": "data/people/p_quinton_jones.json"
   },
   {
-    "id": "p_quique_aguilar"
+    "id": "p_quique_aguilar",
+    "name": "Quique Aguilar",
+    "birth_year": 1971,
+    "path": "data/people/p_quique_aguilar.json"
   },
   {
-    "id": "p_quique_camin"
+    "id": "p_quique_camin",
+    "name": "Quique Camín",
+    "path": "data/people/p_quique_camin.json"
   },
   {
-    "id": "p_quoc_khanh"
+    "id": "p_quoc_khanh",
+    "name": "Quốc Khánh",
+    "path": "data/people/p_quoc_khanh.json"
   },
   {
-    "id": "p_quoc_tri"
+    "id": "p_quoc_tri",
+    "name": "Quốc Trị",
+    "birth_year": 1956,
+    "path": "data/people/p_quoc_tri.json"
   },
   {
-    "id": "p_quran_pender"
+    "id": "p_quran_pender",
+    "name": "Quran Pender",
+    "birth_year": 1979,
+    "path": "data/people/p_quran_pender.json"
   },
   {
-    "id": "p_quyen_linh"
+    "id": "p_quyen_linh",
+    "name": "Quyền Linh",
+    "birth_year": 1969,
+    "path": "data/people/p_quyen_linh.json"
   }
 ]
