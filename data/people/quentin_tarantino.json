@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_quentin_tarantino",
+  "name": "Quentin Tarantino",
+  "external_ids": {
+    "wikidata": "Q3772",
+    "imdb": "nm0000233"
+  },
+  "last_updated": "2026-08-14",
+  "birth_year": 1963,
+  "death_year": null
+}
