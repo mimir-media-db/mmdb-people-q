@@ -28,9 +28,56 @@
     "path": "data/people/q7346845.json"
   },
   {
+    "id": "p_qasem_zareh",
+    "name": "Qasem Zareh",
+    "birth_year": 1957,
+    "path": "data/people/qasem_zareh.json"
+  },
+  {
+    "id": "p_qazal_saremi",
+    "name": "Qazal Saremi",
+    "birth_year": 1978,
+    "path": "data/people/qazal_saremi.json"
+  },
+  {
+    "id": "p_qi_qi",
+    "name": "Qi Qi",
+    "birth_year": 1967,
+    "path": "data/people/qi_qi.json"
+  },
+  {
+    "id": "p_qin_hailu",
+    "name": "Qin Hailu",
+    "birth_year": 1978,
+    "path": "data/people/qin_hailu.json"
+  },
+  {
+    "id": "p_qorianka_kilcher",
+    "name": "Q'orianka Kilcher",
+    "birth_year": 1990,
+    "path": "data/people/qorianka_kilcher.json"
+  },
+  {
+    "id": "p_queen_latifah",
+    "name": "Queen Latifah",
+    "birth_year": 1970,
+    "path": "data/people/queen_latifah.json"
+  },
+  {
     "id": "p_quentin_tarantino",
     "name": "Quentin Tarantino",
     "birth_year": 1963,
     "path": "data/people/quentin_tarantino.json"
+  },
+  {
+    "id": "p_quia_rodrigues",
+    "name": "Quiá Rodrigues",
+    "path": "data/people/quia_rodrigues.json"
+  },
+  {
+    "id": "p_quinn_shephard",
+    "name": "Quinn Shephard",
+    "birth_year": 1995,
+    "path": "data/people/quinn_shephard.json"
   }
 ]
