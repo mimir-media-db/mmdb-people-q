@@ -64,6 +64,12 @@
     "path": "data/people/qiu_li.json"
   },
   {
+    "id": "p_qiyomiddin_chaqalov",
+    "name": "Qiyomiddin Chaqalov",
+    "birth_year": 1945,
+    "path": "data/people/qiyomiddin_chaqalov.json"
+  },
+  {
     "id": "p_qorianka_kilcher",
     "name": "Q'orianka Kilcher",
     "birth_year": 1990,
@@ -86,6 +92,11 @@
     "name": "Quách Thu Phương",
     "birth_year": 1976,
     "path": "data/people/quach_thu_phuong.json"
+  },
+  {
+    "id": "p_quan_phillips",
+    "name": "Quan Phillips",
+    "path": "data/people/quan_phillips.json"
   },
   {
     "id": "p_quang_thang",
@@ -121,6 +132,12 @@
     "id": "p_quia_rodrigues",
     "name": "Quiá Rodrigues",
     "path": "data/people/quia_rodrigues.json"
+  },
+  {
+    "id": "p_quimet_pla",
+    "name": "Quimet Pla",
+    "birth_year": 1950,
+    "path": "data/people/quimet_pla.json"
   },
   {
     "id": "p_quinn_collins",
