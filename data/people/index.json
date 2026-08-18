@@ -1,5 +1,11 @@
 [
   {
+    "id": "p_q_allan_brocka",
+    "name": "Q. Allan Brocka",
+    "birth_year": 1971,
+    "path": "data/people/q_allan_brocka.json"
+  },
+  {
     "id": "p_q131784872",
     "name": "Q131784872",
     "path": "data/people/q131784872.json"
@@ -123,10 +129,22 @@
     "path": "data/people/quentin_dupieux.json"
   },
   {
+    "id": "p_quentin_lee",
+    "name": "Quentin Lee",
+    "birth_year": 1970,
+    "path": "data/people/quentin_lee.json"
+  },
+  {
     "id": "p_quentin_tarantino",
     "name": "Quentin Tarantino",
     "birth_year": 1963,
     "path": "data/people/quentin_tarantino.json"
+  },
+  {
+    "id": "p_questlove",
+    "name": "Questlove",
+    "birth_year": 1971,
+    "path": "data/people/questlove.json"
   },
   {
     "id": "p_quia_rodrigues",
@@ -182,6 +200,12 @@
     "name": "Quốc Trị",
     "birth_year": 1956,
     "path": "data/people/quoc_tri.json"
+  },
+  {
+    "id": "p_quran_pender",
+    "name": "Quran Pender",
+    "birth_year": 1979,
+    "path": "data/people/quran_pender.json"
   },
   {
     "id": "p_quyen_linh",
