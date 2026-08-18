@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "p_q131784872",
+    "name": "Q131784872",
+    "path": "data/people/q131784872.json"
+  },
+  {
+    "id": "p_q131784900",
+    "name": "Q131784900",
+    "birth_year": 1948,
+    "path": "data/people/q131784900.json"
+  },
+  {
+    "id": "p_q16727587",
+    "name": "Q16727587",
+    "path": "data/people/q16727587.json"
+  },
+  {
+    "id": "p_q21229383",
+    "name": "Q21229383",
+    "birth_year": 1958,
+    "path": "data/people/q21229383.json"
+  },
+  {
+    "id": "p_q7346845",
+    "name": "Q7346845",
+    "birth_year": 1952,
+    "path": "data/people/q7346845.json"
+  },
+  {
+    "id": "p_quentin_tarantino",
+    "name": "Quentin Tarantino",
+    "birth_year": 1963,
+    "path": "data/people/quentin_tarantino.json"
+  }
+]
