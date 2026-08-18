@@ -82,6 +82,18 @@
     "path": "data/people/qu_ying.json"
   },
   {
+    "id": "p_quach_thu_phuong",
+    "name": "Quách Thu Phương",
+    "birth_year": 1976,
+    "path": "data/people/quach_thu_phuong.json"
+  },
+  {
+    "id": "p_quang_thang",
+    "name": "Quang Thắng",
+    "birth_year": 1967,
+    "path": "data/people/quang_thang.json"
+  },
+  {
     "id": "p_queen_latifah",
     "name": "Queen Latifah",
     "birth_year": 1970,
@@ -122,6 +134,12 @@
     "path": "data/people/quinn_shephard.json"
   },
   {
+    "id": "p_quinten_schram",
+    "name": "Quinten Schram",
+    "birth_year": 1992,
+    "path": "data/people/quinten_schram.json"
+  },
+  {
     "id": "p_quinton_jones",
     "name": "Quinton Jones",
     "path": "data/people/quinton_jones.json"
@@ -131,5 +149,27 @@
     "name": "Quique Aguilar",
     "birth_year": 1971,
     "path": "data/people/quique_aguilar.json"
+  },
+  {
+    "id": "p_quique_camin",
+    "name": "Quique Camín",
+    "path": "data/people/quique_camin.json"
+  },
+  {
+    "id": "p_quoc_khanh",
+    "name": "Quốc Khánh",
+    "path": "data/people/quoc_khanh.json"
+  },
+  {
+    "id": "p_quoc_tri",
+    "name": "Quốc Trị",
+    "birth_year": 1956,
+    "path": "data/people/quoc_tri.json"
+  },
+  {
+    "id": "p_quyen_linh",
+    "name": "Quyền Linh",
+    "birth_year": 1969,
+    "path": "data/people/quyen_linh.json"
   }
 ]
