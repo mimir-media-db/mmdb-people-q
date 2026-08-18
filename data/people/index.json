@@ -52,16 +52,52 @@
     "path": "data/people/qin_hailu.json"
   },
   {
+    "id": "p_qin_shaobo",
+    "name": "Qin Shaobo",
+    "birth_year": 1981,
+    "path": "data/people/qin_shaobo.json"
+  },
+  {
+    "id": "p_qiu_li",
+    "name": "Qiu Li",
+    "birth_year": 1981,
+    "path": "data/people/qiu_li.json"
+  },
+  {
     "id": "p_qorianka_kilcher",
     "name": "Q'orianka Kilcher",
     "birth_year": 1990,
     "path": "data/people/qorianka_kilcher.json"
   },
   {
+    "id": "p_qtip",
+    "name": "Q-Tip",
+    "birth_year": 1970,
+    "path": "data/people/qtip.json"
+  },
+  {
+    "id": "p_qu_ying",
+    "name": "Qu Ying",
+    "birth_year": 1971,
+    "path": "data/people/qu_ying.json"
+  },
+  {
     "id": "p_queen_latifah",
     "name": "Queen Latifah",
     "birth_year": 1970,
     "path": "data/people/queen_latifah.json"
+  },
+  {
+    "id": "p_quentin_baillot",
+    "name": "Quentin Baillot",
+    "birth_year": 1952,
+    "path": "data/people/quentin_baillot.json"
+  },
+  {
+    "id": "p_quentin_dupieux",
+    "name": "Quentin Dupieux",
+    "birth_year": 1974,
+    "path": "data/people/quentin_dupieux.json"
   },
   {
     "id": "p_quentin_tarantino",
@@ -75,9 +111,25 @@
     "path": "data/people/quia_rodrigues.json"
   },
   {
+    "id": "p_quinn_collins",
+    "name": "Quinn Collins",
+    "path": "data/people/quinn_collins.json"
+  },
+  {
     "id": "p_quinn_shephard",
     "name": "Quinn Shephard",
     "birth_year": 1995,
     "path": "data/people/quinn_shephard.json"
+  },
+  {
+    "id": "p_quinton_jones",
+    "name": "Quinton Jones",
+    "path": "data/people/quinton_jones.json"
+  },
+  {
+    "id": "p_quique_aguilar",
+    "name": "Quique Aguilar",
+    "birth_year": 1971,
+    "path": "data/people/quique_aguilar.json"
   }
 ]
