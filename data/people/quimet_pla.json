@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_quimet_pla",
+  "name": "Quimet Pla",
+  "external_ids": {
+    "wikidata": "Q19301616",
+    "imdb": "nm1001681"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}
