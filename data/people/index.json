@@ -244,6 +244,12 @@
     "path": "data/people/p_queenie_chu.json"
   },
   {
+    "id": "p_queenie_tai",
+    "name": "Queenie Tai",
+    "birth_year": 1982,
+    "path": "data/people/p_queenie_tai.json"
+  },
+  {
     "id": "p_quentin_baillot",
     "name": "Quentin Baillot",
     "birth_year": 1952,
@@ -307,6 +313,11 @@
     "name": "Quimet Pla",
     "birth_year": 1950,
     "path": "data/people/p_quimet_pla.json"
+  },
+  {
+    "id": "p_quincy_bonds",
+    "name": "Quincy Bonds",
+    "path": "data/people/p_quincy_bonds.json"
   },
   {
     "id": "p_quincy_jones",
@@ -439,6 +450,12 @@
     "name": "Quốc Trị",
     "birth_year": 1956,
     "path": "data/people/p_quoc_tri.json"
+  },
+  {
+    "id": "p_quoc_truong",
+    "name": "Quốc Trường",
+    "birth_year": 1988,
+    "path": "data/people/p_quoc_truong.json"
   },
   {
     "id": "p_quran_pender",
