@@ -40,6 +40,12 @@
     "path": "data/people/p_qasem_zareh.json"
   },
   {
+    "id": "p_qasim_akhtar",
+    "name": "Qasim Akhtar",
+    "birth_year": 1991,
+    "path": "data/people/p_qasim_akhtar.json"
+  },
+  {
     "id": "p_qazal_saremi",
     "name": "Qazal Saremi",
     "birth_year": 1978,
@@ -116,6 +122,23 @@
     "path": "data/people/p_quang_thang.json"
   },
   {
+    "id": "p_quark_henares",
+    "name": "Quark Henares",
+    "path": "data/people/p_quark_henares.json"
+  },
+  {
+    "id": "p_que_haidar",
+    "name": "Que Haidar",
+    "birth_year": 1979,
+    "path": "data/people/p_que_haidar.json"
+  },
+  {
+    "id": "p_queen_camilla",
+    "name": "Queen Camilla",
+    "birth_year": 1947,
+    "path": "data/people/p_queen_camilla.json"
+  },
+  {
     "id": "p_queen_latifah",
     "name": "Queen Latifah",
     "birth_year": 1970,
@@ -157,6 +180,12 @@
     "path": "data/people/p_quia_rodrigues.json"
   },
   {
+    "id": "p_quim_gutierrez",
+    "name": "Quim Gutiérrez",
+    "birth_year": 1981,
+    "path": "data/people/p_quim_gutierrez.json"
+  },
+  {
     "id": "p_quimet_pla",
     "name": "Quimet Pla",
     "birth_year": 1950,
@@ -180,6 +209,12 @@
     "path": "data/people/p_quinten_schram.json"
   },
   {
+    "id": "p_quinton_flynn",
+    "name": "Quinton Flynn",
+    "birth_year": 1964,
+    "path": "data/people/p_quinton_flynn.json"
+  },
+  {
     "id": "p_quinton_jones",
     "name": "Quinton Jones",
     "path": "data/people/p_quinton_jones.json"
@@ -194,6 +229,12 @@
     "id": "p_quique_camin",
     "name": "Quique Camín",
     "path": "data/people/p_quique_camin.json"
+  },
+  {
+    "id": "p_quirin_berg",
+    "name": "Quirin Berg",
+    "birth_year": 1978,
+    "path": "data/people/p_quirin_berg.json"
   },
   {
     "id": "p_quoc_khanh",
