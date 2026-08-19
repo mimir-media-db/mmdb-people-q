@@ -46,6 +46,11 @@
     "path": "data/people/p_qazal_saremi.json"
   },
   {
+    "id": "p_qi_luo",
+    "name": "Qi Luo",
+    "path": "data/people/p_qi_luo.json"
+  },
+  {
     "id": "p_qi_qi",
     "name": "Qi Qi",
     "birth_year": 1967,
