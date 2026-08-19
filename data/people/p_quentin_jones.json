@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_quentin_jones",
+  "name": "Quentin Jones",
+  "external_ids": {
+    "wikidata": "Q24060518",
+    "imdb": "nm4529252"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}
