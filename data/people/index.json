@@ -34,6 +34,12 @@
     "path": "data/people/p_q7346845.json"
   },
   {
+    "id": "p_qaher_harhash",
+    "name": "Qaher Harhash",
+    "birth_year": 1997,
+    "path": "data/people/p_qaher_harhash.json"
+  },
+  {
     "id": "p_qaiser_sanober",
     "name": "Qaiser Sanober",
     "path": "data/people/p_qaiser_sanober.json"
