@@ -386,10 +386,21 @@
     "path": "data/people/p_queency_ehimwenma_bazuaye.json"
   },
   {
+    "id": "p_queenie_chen",
+    "name": "Queenie Chen",
+    "path": "data/people/p_queenie_chen.json"
+  },
+  {
     "id": "p_queenie_chu",
     "name": "Queenie Chu",
     "birth_year": 1981,
     "path": "data/people/p_queenie_chu.json"
+  },
+  {
+    "id": "p_queenie_sateen",
+    "name": "Queenie Sateen",
+    "birth_year": 1991,
+    "path": "data/people/p_queenie_sateen.json"
   },
   {
     "id": "p_queenie_tai",
@@ -578,6 +589,12 @@
     "path": "data/people/p_quinka_f_stoehr.json"
   },
   {
+    "id": "p_quinn_bezemer",
+    "name": "Quinn Bezemer",
+    "birth_year": 2004,
+    "path": "data/people/p_quinn_bezemer.json"
+  },
+  {
     "id": "p_quinn_collins",
     "name": "Quinn Collins",
     "path": "data/people/p_quinn_collins.json"
@@ -717,6 +734,12 @@
     "id": "p_quitterie_hervouet",
     "name": "Quitterie Hervouet",
     "path": "data/people/p_quitterie_hervouet.json"
+  },
+  {
+    "id": "p_quoc_huy",
+    "name": "Quốc Huy",
+    "birth_year": 1986,
+    "path": "data/people/p_quoc_huy.json"
   },
   {
     "id": "p_quoc_khanh",
