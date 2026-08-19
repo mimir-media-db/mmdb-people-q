@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_quentin_crisp",
+  "name": "Quentin Crisp",
+  "external_ids": {
+    "wikidata": "Q920513",
+    "imdb": "nm0187998"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1908,
+  "death_year": 1999
+}
