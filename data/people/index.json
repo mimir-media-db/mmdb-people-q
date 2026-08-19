@@ -225,10 +225,22 @@
     "path": "data/people/p_qtip.json"
   },
   {
+    "id": "p_qu_chuxiao",
+    "name": "Qu Chuxiao",
+    "birth_year": 1994,
+    "path": "data/people/p_qu_chuxiao.json"
+  },
+  {
     "id": "p_qu_gaowei",
     "name": "Qu Gaowei",
     "birth_year": 1985,
     "path": "data/people/p_qu_gaowei.json"
+  },
+  {
+    "id": "p_qu_jingjing",
+    "name": "Qu Jingjing",
+    "birth_year": 1990,
+    "path": "data/people/p_qu_jingjing.json"
   },
   {
     "id": "p_qu_ying",
@@ -436,6 +448,12 @@
     "path": "data/people/p_questlove.json"
   },
   {
+    "id": "p_quezzy_the_ceo",
+    "name": "Quezzy The CEO",
+    "birth_year": 1982,
+    "path": "data/people/p_quezzy_the_ceo.json"
+  },
+  {
     "id": "p_quia_rodrigues",
     "name": "Quiá Rodrigues",
     "path": "data/people/p_quia_rodrigues.json"
@@ -605,6 +623,11 @@
     "name": "Quirin Oettl",
     "birth_year": 1998,
     "path": "data/people/p_quirin_oettl.json"
+  },
+  {
+    "id": "p_quitterie_hervouet",
+    "name": "Quitterie Hervouet",
+    "path": "data/people/p_quitterie_hervouet.json"
   },
   {
     "id": "p_quoc_khanh",
