@@ -34,6 +34,11 @@
     "path": "data/people/p_q7346845.json"
   },
   {
+    "id": "p_qaiser_sanober",
+    "name": "Qaiser Sanober",
+    "path": "data/people/p_qaiser_sanober.json"
+  },
+  {
     "id": "p_qajet_smagul",
     "name": "Qajet Smağul",
     "birth_year": 1973,
@@ -52,10 +57,21 @@
     "path": "data/people/p_qasim_akhtar.json"
   },
   {
+    "id": "p_qasim_ali_mureed",
+    "name": "Qasim Ali Mureed",
+    "path": "data/people/p_qasim_ali_mureed.json"
+  },
+  {
     "id": "p_qasim_basir",
     "name": "Qasim Basir",
     "birth_year": 1979,
     "path": "data/people/p_qasim_basir.json"
+  },
+  {
+    "id": "p_qasrina_karim",
+    "name": "Qasrina Karim",
+    "birth_year": 1996,
+    "path": "data/people/p_qasrina_karim.json"
   },
   {
     "id": "p_qausar_harta_yudana",
@@ -68,6 +84,12 @@
     "name": "Qaushiq Mukherjee",
     "birth_year": 1974,
     "path": "data/people/p_qaushiq_mukherjee.json"
+  },
+  {
+    "id": "p_qavi_khan",
+    "name": "Qavi Khan",
+    "birth_year": 1942,
+    "path": "data/people/p_qavi_khan.json"
   },
   {
     "id": "p_qazal_saremi",
@@ -91,6 +113,12 @@
     "name": "Qi Qi",
     "birth_year": 1967,
     "path": "data/people/p_qi_qi.json"
+  },
+  {
+    "id": "p_qi_xi",
+    "name": "Qi Xi",
+    "birth_year": 1984,
+    "path": "data/people/p_qi_xi.json"
   },
   {
     "id": "p_qi_yuwu",
@@ -184,6 +212,12 @@
     "path": "data/people/p_qiu_anxiong.json"
   },
   {
+    "id": "p_qiu_jiongjiong",
+    "name": "Qiu Jiongjiong",
+    "birth_year": 1976,
+    "path": "data/people/p_qiu_jiongjiong.json"
+  },
+  {
     "id": "p_qiu_li",
     "name": "Qiu Li",
     "birth_year": 1981,
@@ -258,6 +292,12 @@
     "name": "Quách Thu Phương",
     "birth_year": 1976,
     "path": "data/people/p_quach_thu_phuong.json"
+  },
+  {
+    "id": "p_quaden_bayles",
+    "name": "Quaden Bayles",
+    "birth_year": 2009,
+    "path": "data/people/p_quaden_bayles.json"
   },
   {
     "id": "p_quan_phillips",
@@ -480,6 +520,12 @@
     "path": "data/people/p_quiara_alegria_hudes.json"
   },
   {
+    "id": "p_quim_avila_conde",
+    "name": "Quim Àvila Conde",
+    "birth_year": 1993,
+    "path": "data/people/p_quim_avila_conde.json"
+  },
+  {
     "id": "p_quim_gutierrez",
     "name": "Quim Gutiérrez",
     "birth_year": 1981,
@@ -577,6 +623,11 @@
     "path": "data/people/p_quinn_shephard.json"
   },
   {
+    "id": "p_quinny_ijang",
+    "name": "Quinny Ijang",
+    "path": "data/people/p_quinny_ijang.json"
+  },
+  {
     "id": "p_quinta_brunson",
     "name": "Quinta Brunson",
     "birth_year": 1989,
@@ -656,6 +707,11 @@
     "name": "Quirin Oettl",
     "birth_year": 1998,
     "path": "data/people/p_quirin_oettl.json"
+  },
+  {
+    "id": "p_quito_rayon_richter",
+    "name": "Quito Rayon Richter",
+    "path": "data/people/p_quito_rayon_richter.json"
   },
   {
     "id": "p_quitterie_hervouet",
