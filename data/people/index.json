@@ -173,6 +173,11 @@
     "path": "data/people/p_qingzeng_cai.json"
   },
   {
+    "id": "p_qiqian_xie",
+    "name": "Qiqian Xie",
+    "path": "data/people/p_qiqian_xie.json"
+  },
+  {
     "id": "p_qiu_anxiong",
     "name": "Qiu Anxiong",
     "birth_year": 1971,
@@ -376,6 +381,11 @@
     "name": "Quentin Dupieux",
     "birth_year": 1974,
     "path": "data/people/p_quentin_dupieux.json"
+  },
+  {
+    "id": "p_quentin_faure",
+    "name": "Quentin Faure",
+    "path": "data/people/p_quentin_faure.json"
   },
   {
     "id": "p_quentin_grosset",
