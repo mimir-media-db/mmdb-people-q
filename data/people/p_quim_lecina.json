@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_quim_lecina",
+  "name": "Quim Lecina",
+  "external_ids": {
+    "wikidata": "Q95985264",
+    "imdb": "nm0496120"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943,
+  "death_year": 2020
+}
