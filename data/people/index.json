@@ -294,6 +294,12 @@
     "path": "data/people/p_qu_ying.json"
   },
   {
+    "id": "p_quach_ngoc_ngoan",
+    "name": "Quách Ngọc Ngoan",
+    "birth_year": 1985,
+    "path": "data/people/p_quach_ngoc_ngoan.json"
+  },
+  {
     "id": "p_quach_thu_phuong",
     "name": "Quách Thu Phương",
     "birth_year": 1976,
@@ -433,6 +439,12 @@
     "path": "data/people/p_quentin_crisp.json"
   },
   {
+    "id": "p_quentin_dhainaut",
+    "name": "Quentin d'Hainaut",
+    "birth_year": 1984,
+    "path": "data/people/p_quentin_dhainaut.json"
+  },
+  {
     "id": "p_quentin_dolmaire",
     "name": "Quentin Dolmaire",
     "birth_year": 1994,
@@ -495,6 +507,12 @@
     "name": "Quentin Merabet",
     "birth_year": 1991,
     "path": "data/people/p_quentin_merabet.json"
+  },
+  {
+    "id": "p_quentin_plair",
+    "name": "Quentin Plair",
+    "birth_year": 1988,
+    "path": "data/people/p_quentin_plair.json"
   },
   {
     "id": "p_quentin_puiraveau",
