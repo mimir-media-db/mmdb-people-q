@@ -222,6 +222,12 @@
     "path": "data/people/p_quimet_pla.json"
   },
   {
+    "id": "p_quincy_jones_iii",
+    "name": "Quincy Jones III",
+    "birth_year": 1968,
+    "path": "data/people/p_quincy_jones_iii.json"
+  },
+  {
     "id": "p_quincy_minor",
     "name": "Quincy Minor",
     "path": "data/people/p_quincy_minor.json"
@@ -250,10 +256,27 @@
     "path": "data/people/p_quinten_schram.json"
   },
   {
+    "id": "p_quintis_ristie",
+    "name": "Quintis Ristie",
+    "birth_year": 1972,
+    "path": "data/people/p_quintis_ristie.json"
+  },
+  {
+    "id": "p_quinto_gambi",
+    "name": "Quinto Gambi",
+    "path": "data/people/p_quinto_gambi.json"
+  },
+  {
     "id": "p_quinton_flynn",
     "name": "Quinton Flynn",
     "birth_year": 1964,
     "path": "data/people/p_quinton_flynn.json"
+  },
+  {
+    "id": "p_quinton_jackson",
+    "name": "Quinton Jackson",
+    "birth_year": 1978,
+    "path": "data/people/p_quinton_jackson.json"
   },
   {
     "id": "p_quinton_jones",
