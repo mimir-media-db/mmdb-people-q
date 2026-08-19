@@ -63,6 +63,12 @@
     "path": "data/people/p_qi_qi.json"
   },
   {
+    "id": "p_qi_yuwu",
+    "name": "Qi Yuwu",
+    "birth_year": 1976,
+    "path": "data/people/p_qi_yuwu.json"
+  },
+  {
     "id": "p_qin_hailu",
     "name": "Qin Hailu",
     "birth_year": 1978,
@@ -116,10 +122,22 @@
     "path": "data/people/p_quan_phillips.json"
   },
   {
+    "id": "p_quang_dung",
+    "name": "Quang Dũng",
+    "birth_year": 1976,
+    "path": "data/people/p_quang_dung.json"
+  },
+  {
     "id": "p_quang_thang",
     "name": "Quang Thắng",
     "birth_year": 1967,
     "path": "data/people/p_quang_thang.json"
+  },
+  {
+    "id": "p_quang_tuan",
+    "name": "Quang Tuấn",
+    "birth_year": 1985,
+    "path": "data/people/p_quang_tuan.json"
   },
   {
     "id": "p_quark_henares",
@@ -151,10 +169,22 @@
     "path": "data/people/p_quentin_baillot.json"
   },
   {
+    "id": "p_quentin_crisp",
+    "name": "Quentin Crisp",
+    "birth_year": 1908,
+    "path": "data/people/p_quentin_crisp.json"
+  },
+  {
     "id": "p_quentin_dupieux",
     "name": "Quentin Dupieux",
     "birth_year": 1974,
     "path": "data/people/p_quentin_dupieux.json"
+  },
+  {
+    "id": "p_quentin_grosset",
+    "name": "Quentin Grosset",
+    "birth_year": 1997,
+    "path": "data/people/p_quentin_grosset.json"
   },
   {
     "id": "p_quentin_lee",
@@ -192,9 +222,20 @@
     "path": "data/people/p_quimet_pla.json"
   },
   {
+    "id": "p_quincy_minor",
+    "name": "Quincy Minor",
+    "path": "data/people/p_quincy_minor.json"
+  },
+  {
     "id": "p_quinn_collins",
     "name": "Quinn Collins",
     "path": "data/people/p_quinn_collins.json"
+  },
+  {
+    "id": "p_quinn_lord",
+    "name": "Quinn Lord",
+    "birth_year": 1999,
+    "path": "data/people/p_quinn_lord.json"
   },
   {
     "id": "p_quinn_shephard",
