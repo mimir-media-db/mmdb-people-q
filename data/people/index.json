@@ -98,6 +98,12 @@
     "path": "data/people/p_qi_zhang.json"
   },
   {
+    "id": "p_qiao_zhenyu",
+    "name": "Qiao Zhenyu",
+    "birth_year": 1978,
+    "path": "data/people/p_qiao_zhenyu.json"
+  },
+  {
     "id": "p_qin_hailu",
     "name": "Qin Hailu",
     "birth_year": 1978,
@@ -127,6 +133,12 @@
     "path": "data/people/p_qing_yang.json"
   },
   {
+    "id": "p_qiu_anxiong",
+    "name": "Qiu Anxiong",
+    "birth_year": 1971,
+    "path": "data/people/p_qiu_anxiong.json"
+  },
+  {
     "id": "p_qiu_li",
     "name": "Qiu Li",
     "birth_year": 1981,
@@ -148,6 +160,12 @@
     "name": "Q'orianka Kilcher",
     "birth_year": 1990,
     "path": "data/people/p_qorianka_kilcher.json"
+  },
+  {
+    "id": "p_qory_sandioriva",
+    "name": "Qory Sandioriva",
+    "birth_year": 1991,
+    "path": "data/people/p_qory_sandioriva.json"
   },
   {
     "id": "p_qtip",
@@ -291,6 +309,12 @@
     "path": "data/people/p_quimet_pla.json"
   },
   {
+    "id": "p_quincy_jones",
+    "name": "Quincy Jones",
+    "birth_year": 1933,
+    "path": "data/people/p_quincy_jones.json"
+  },
+  {
     "id": "p_quincy_jones_iii",
     "name": "Quincy Jones III",
     "birth_year": 1968,
@@ -317,6 +341,12 @@
     "name": "Quinn Lord",
     "birth_year": 1999,
     "path": "data/people/p_quinn_lord.json"
+  },
+  {
+    "id": "p_quinn_redeker",
+    "name": "Quinn Redeker",
+    "birth_year": 1936,
+    "path": "data/people/p_quinn_redeker.json"
   },
   {
     "id": "p_quinn_shephard",
@@ -380,6 +410,12 @@
     "name": "Quirin Berg",
     "birth_year": 1978,
     "path": "data/people/p_quirin_berg.json"
+  },
+  {
+    "id": "p_quirin_oettl",
+    "name": "Quirin Oettl",
+    "birth_year": 1998,
+    "path": "data/people/p_quirin_oettl.json"
   },
   {
     "id": "p_quoc_khanh",
