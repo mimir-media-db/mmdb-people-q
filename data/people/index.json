@@ -110,6 +110,12 @@
     "path": "data/people/p_qin_hailu.json"
   },
   {
+    "id": "p_qin_hanlei",
+    "name": "Qin Hanlei",
+    "birth_year": 1985,
+    "path": "data/people/p_qin_hanlei.json"
+  },
+  {
     "id": "p_qin_hao",
     "name": "Qin Hao",
     "birth_year": 1978,
@@ -274,6 +280,12 @@
     "path": "data/people/p_quentin_grosset.json"
   },
   {
+    "id": "p_quentin_jones",
+    "name": "Quentin Jones",
+    "birth_year": 1983,
+    "path": "data/people/p_quentin_jones.json"
+  },
+  {
     "id": "p_quentin_lee",
     "name": "Quentin Lee",
     "birth_year": 1970,
@@ -284,6 +296,11 @@
     "name": "Quentin Merabet",
     "birth_year": 1991,
     "path": "data/people/p_quentin_merabet.json"
+  },
+  {
+    "id": "p_quentin_puiraveau",
+    "name": "Quentin Puiraveau",
+    "path": "data/people/p_quentin_puiraveau.json"
   },
   {
     "id": "p_quentin_tarantino",
@@ -307,6 +324,12 @@
     "name": "Quim Gutiérrez",
     "birth_year": 1981,
     "path": "data/people/p_quim_gutierrez.json"
+  },
+  {
+    "id": "p_quim_lecina",
+    "name": "Quim Lecina",
+    "birth_year": 1943,
+    "path": "data/people/p_quim_lecina.json"
   },
   {
     "id": "p_quimet_pla",
