@@ -34,6 +34,12 @@
     "path": "data/people/p_q7346845.json"
   },
   {
+    "id": "p_qajet_smagul",
+    "name": "Qajet Smağul",
+    "birth_year": 1973,
+    "path": "data/people/p_qajet_smagul.json"
+  },
+  {
     "id": "p_qasem_zareh",
     "name": "Qasem Zareh",
     "birth_year": 1957,
@@ -140,6 +146,11 @@
     "path": "data/people/p_qin_shaobo.json"
   },
   {
+    "id": "p_qin_zhen",
+    "name": "Qin Zhen",
+    "path": "data/people/p_qin_zhen.json"
+  },
+  {
     "id": "p_qing_yang",
     "name": "Qing Yang",
     "path": "data/people/p_qing_yang.json"
@@ -178,6 +189,12 @@
     "name": "Qory Sandioriva",
     "birth_year": 1991,
     "path": "data/people/p_qory_sandioriva.json"
+  },
+  {
+    "id": "p_qotbeddin_sadeqi",
+    "name": "Qotbeddin Sadeqi",
+    "birth_year": 1952,
+    "path": "data/people/p_qotbeddin_sadeqi.json"
   },
   {
     "id": "p_qtip",
@@ -423,6 +440,11 @@
     "id": "p_quinn_collins",
     "name": "Quinn Collins",
     "path": "data/people/p_quinn_collins.json"
+  },
+  {
+    "id": "p_quinn_costello",
+    "name": "Quinn Costello",
+    "path": "data/people/p_quinn_costello.json"
   },
   {
     "id": "p_quinn_lord",
