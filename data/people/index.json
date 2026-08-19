@@ -46,10 +46,28 @@
     "path": "data/people/p_qasim_akhtar.json"
   },
   {
+    "id": "p_qasim_basir",
+    "name": "Qasim Basir",
+    "birth_year": 1979,
+    "path": "data/people/p_qasim_basir.json"
+  },
+  {
+    "id": "p_qaushiq_mukherjee",
+    "name": "Qaushiq Mukherjee",
+    "birth_year": 1974,
+    "path": "data/people/p_qaushiq_mukherjee.json"
+  },
+  {
     "id": "p_qazal_saremi",
     "name": "Qazal Saremi",
     "birth_year": 1978,
     "path": "data/people/p_qazal_saremi.json"
+  },
+  {
+    "id": "p_qi_jia",
+    "name": "Qi Jia",
+    "birth_year": 1984,
+    "path": "data/people/p_qi_jia.json"
   },
   {
     "id": "p_qi_luo",
@@ -75,10 +93,27 @@
     "path": "data/people/p_qin_hailu.json"
   },
   {
+    "id": "p_qin_hao",
+    "name": "Qin Hao",
+    "birth_year": 1978,
+    "path": "data/people/p_qin_hao.json"
+  },
+  {
+    "id": "p_qin_lan",
+    "name": "Qin Lan",
+    "birth_year": 1979,
+    "path": "data/people/p_qin_lan.json"
+  },
+  {
     "id": "p_qin_shaobo",
     "name": "Qin Shaobo",
     "birth_year": 1981,
     "path": "data/people/p_qin_shaobo.json"
+  },
+  {
+    "id": "p_qing_yang",
+    "name": "Qing Yang",
+    "path": "data/people/p_qing_yang.json"
   },
   {
     "id": "p_qiu_li",
@@ -163,6 +198,12 @@
     "path": "data/people/p_queen_latifah.json"
   },
   {
+    "id": "p_queenie_chu",
+    "name": "Queenie Chu",
+    "birth_year": 1981,
+    "path": "data/people/p_queenie_chu.json"
+  },
+  {
     "id": "p_quentin_baillot",
     "name": "Quentin Baillot",
     "birth_year": 1952,
@@ -191,6 +232,12 @@
     "name": "Quentin Lee",
     "birth_year": 1970,
     "path": "data/people/p_quentin_lee.json"
+  },
+  {
+    "id": "p_quentin_merabet",
+    "name": "Quentin Merabet",
+    "birth_year": 1991,
+    "path": "data/people/p_quentin_merabet.json"
   },
   {
     "id": "p_quentin_tarantino",
@@ -233,6 +280,12 @@
     "path": "data/people/p_quincy_minor.json"
   },
   {
+    "id": "p_quinka_f_stoehr",
+    "name": "Quinka F. Stoehr",
+    "birth_year": 1958,
+    "path": "data/people/p_quinka_f_stoehr.json"
+  },
+  {
     "id": "p_quinn_collins",
     "name": "Quinn Collins",
     "path": "data/people/p_quinn_collins.json"
@@ -265,6 +318,12 @@
     "id": "p_quinto_gambi",
     "name": "Quinto Gambi",
     "path": "data/people/p_quinto_gambi.json"
+  },
+  {
+    "id": "p_quinton_aaron",
+    "name": "Quinton Aaron",
+    "birth_year": 1984,
+    "path": "data/people/p_quinton_aaron.json"
   },
   {
     "id": "p_quinton_flynn",
@@ -306,6 +365,12 @@
     "path": "data/people/p_quoc_khanh.json"
   },
   {
+    "id": "p_quoc_quan",
+    "name": "Quốc Quân",
+    "birth_year": 1969,
+    "path": "data/people/p_quoc_quan.json"
+  },
+  {
     "id": "p_quoc_tri",
     "name": "Quốc Trị",
     "birth_year": 1956,
@@ -316,6 +381,18 @@
     "name": "Quran Pender",
     "birth_year": 1979,
     "path": "data/people/p_quran_pender.json"
+  },
+  {
+    "id": "p_quvenzhane_wallis",
+    "name": "Quvenzhané Wallis",
+    "birth_year": 2003,
+    "path": "data/people/p_quvenzhane_wallis.json"
+  },
+  {
+    "id": "p_quy_binh",
+    "name": "Quý Bình",
+    "birth_year": 1983,
+    "path": "data/people/p_quy_binh.json"
   },
   {
     "id": "p_quyen_linh",
