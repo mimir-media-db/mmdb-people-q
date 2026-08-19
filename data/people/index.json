@@ -341,6 +341,11 @@
     "path": "data/people/p_queen_wei.json"
   },
   {
+    "id": "p_queency_ehimwenma_bazuaye",
+    "name": "Queency Ehimwenma Bazuaye",
+    "path": "data/people/p_queency_ehimwenma_bazuaye.json"
+  },
+  {
     "id": "p_queenie_chu",
     "name": "Queenie Chu",
     "birth_year": 1981,
@@ -469,6 +474,12 @@
     "path": "data/people/p_quia_rodrigues.json"
   },
   {
+    "id": "p_quiara_alegria_hudes",
+    "name": "Quiara Alegría Hudes",
+    "birth_year": 1977,
+    "path": "data/people/p_quiara_alegria_hudes.json"
+  },
+  {
     "id": "p_quim_gutierrez",
     "name": "Quim Gutiérrez",
     "birth_year": 1981,
@@ -566,10 +577,22 @@
     "path": "data/people/p_quinn_shephard.json"
   },
   {
+    "id": "p_quinta_brunson",
+    "name": "Quinta Brunson",
+    "birth_year": 1989,
+    "path": "data/people/p_quinta_brunson.json"
+  },
+  {
     "id": "p_quinten_schram",
     "name": "Quinten Schram",
     "birth_year": 1992,
     "path": "data/people/p_quinten_schram.json"
+  },
+  {
+    "id": "p_quintessa_swindell",
+    "name": "Quintessa Swindell",
+    "birth_year": 1997,
+    "path": "data/people/p_quintessa_swindell.json"
   },
   {
     "id": "p_quintis_ristie",
@@ -673,6 +696,12 @@
     "name": "Quran Pender",
     "birth_year": 1979,
     "path": "data/people/p_quran_pender.json"
+  },
+  {
+    "id": "p_quro_tsai",
+    "name": "Quro Tsai",
+    "birth_year": 1988,
+    "path": "data/people/p_quro_tsai.json"
   },
   {
     "id": "p_qurrat_ann_kadwani",
