@@ -40,6 +40,11 @@
     "path": "data/people/p_qaher_harhash.json"
   },
   {
+    "id": "p_qaidh_sinnalebbe",
+    "name": "Qaidh Sinnalebbe",
+    "path": "data/people/p_qaidh_sinnalebbe.json"
+  },
+  {
     "id": "p_qaiser_sanober",
     "name": "Qaiser Sanober",
     "path": "data/people/p_qaiser_sanober.json"
@@ -321,6 +326,12 @@
     "name": "Quang Dũng",
     "birth_year": 1976,
     "path": "data/people/p_quang_dung.json"
+  },
+  {
+    "id": "p_quang_minh",
+    "name": "Quang Minh",
+    "birth_year": 1959,
+    "path": "data/people/p_quang_minh.json"
   },
   {
     "id": "p_quang_thang",
@@ -673,6 +684,12 @@
     "name": "Quinta Brunson",
     "birth_year": 1989,
     "path": "data/people/p_quinta_brunson.json"
+  },
+  {
+    "id": "p_quinten_delaere",
+    "name": "Quinten Delaere",
+    "birth_year": 2007,
+    "path": "data/people/p_quinten_delaere.json"
   },
   {
     "id": "p_quinten_schram",
