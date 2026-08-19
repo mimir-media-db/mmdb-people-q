@@ -52,6 +52,12 @@
     "path": "data/people/p_qasim_basir.json"
   },
   {
+    "id": "p_qausar_harta_yudana",
+    "name": "Qausar Harta Yudana",
+    "birth_year": 1992,
+    "path": "data/people/p_qausar_harta_yudana.json"
+  },
+  {
     "id": "p_qaushiq_mukherjee",
     "name": "Qaushiq Mukherjee",
     "birth_year": 1974,
@@ -85,6 +91,11 @@
     "name": "Qi Yuwu",
     "birth_year": 1976,
     "path": "data/people/p_qi_yuwu.json"
+  },
+  {
+    "id": "p_qi_zhang",
+    "name": "Qi Zhang",
+    "path": "data/people/p_qi_zhang.json"
   },
   {
     "id": "p_qin_hailu",
@@ -126,6 +137,11 @@
     "name": "Qiyomiddin Chaqalov",
     "birth_year": 1945,
     "path": "data/people/p_qiyomiddin_chaqalov.json"
+  },
+  {
+    "id": "p_qmillion",
+    "name": "Qmillion",
+    "path": "data/people/p_qmillion.json"
   },
   {
     "id": "p_qorianka_kilcher",
@@ -196,6 +212,12 @@
     "name": "Queen Latifah",
     "birth_year": 1970,
     "path": "data/people/p_queen_latifah.json"
+  },
+  {
+    "id": "p_queen_nwokoye",
+    "name": "Queen Nwokoye",
+    "birth_year": 1981,
+    "path": "data/people/p_queen_nwokoye.json"
   },
   {
     "id": "p_queenie_chu",
@@ -369,6 +391,12 @@
     "name": "Quốc Quân",
     "birth_year": 1969,
     "path": "data/people/p_quoc_quan.json"
+  },
+  {
+    "id": "p_quoc_thai",
+    "name": "Quốc Thái",
+    "birth_year": 1974,
+    "path": "data/people/p_quoc_thai.json"
   },
   {
     "id": "p_quoc_tri",
