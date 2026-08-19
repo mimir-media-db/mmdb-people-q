@@ -146,6 +146,12 @@
     "path": "data/people/p_qin_shaobo.json"
   },
   {
+    "id": "p_qin_yi",
+    "name": "Qin Yi",
+    "birth_year": 1922,
+    "path": "data/people/p_qin_yi.json"
+  },
+  {
     "id": "p_qin_zhen",
     "name": "Qin Zhen",
     "path": "data/people/p_qin_zhen.json"
@@ -177,6 +183,11 @@
     "id": "p_qmillion",
     "name": "Qmillion",
     "path": "data/people/p_qmillion.json"
+  },
+  {
+    "id": "p_qondiswa_james",
+    "name": "Qondiswa James",
+    "path": "data/people/p_qondiswa_james.json"
   },
   {
     "id": "p_qorianka_kilcher",
@@ -333,6 +344,11 @@
     "path": "data/people/p_quentin_grosset.json"
   },
   {
+    "id": "p_quentin_jagorel",
+    "name": "Quentin Jagorel",
+    "path": "data/people/p_quentin_jagorel.json"
+  },
+  {
     "id": "p_quentin_jones",
     "name": "Quentin Jones",
     "birth_year": 1983,
@@ -349,6 +365,12 @@
     "name": "Quentin Lee",
     "birth_year": 1970,
     "path": "data/people/p_quentin_lee.json"
+  },
+  {
+    "id": "p_quentin_margot",
+    "name": "Quentin Margot",
+    "birth_year": 1982,
+    "path": "data/people/p_quentin_margot.json"
   },
   {
     "id": "p_quentin_merabet",
@@ -597,5 +619,10 @@
     "name": "Quyền Linh",
     "birth_year": 1969,
     "path": "data/people/p_quyen_linh.json"
+  },
+  {
+    "id": "p_quyen_nguyen_le",
+    "name": "Quyen Nguyen Le",
+    "path": "data/people/p_quyen_nguyen_le.json"
   }
 ]
