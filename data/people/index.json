@@ -235,6 +235,11 @@
     "path": "data/people/p_qiu_li.json"
   },
   {
+    "id": "p_qiu_shi",
+    "name": "Qiu Shi",
+    "path": "data/people/p_qiu_shi.json"
+  },
+  {
     "id": "p_qiyomiddin_chaqalov",
     "name": "Qiyomiddin Chaqalov",
     "birth_year": 1945,
