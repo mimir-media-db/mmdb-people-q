@@ -537,6 +537,12 @@
     "path": "data/people/p_quentin_reynaud.json"
   },
   {
+    "id": "p_quentin_sirjacq",
+    "name": "Quentin Sirjacq",
+    "birth_year": 1977,
+    "path": "data/people/p_quentin_sirjacq.json"
+  },
+  {
     "id": "p_quentin_tarantino",
     "name": "Quentin Tarantino",
     "birth_year": 1963,
