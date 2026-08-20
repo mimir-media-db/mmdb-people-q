@@ -812,6 +812,12 @@
     "path": "data/people/p_quoc_tri.json"
   },
   {
+    "id": "p_quoc_trung",
+    "name": "Quốc Trung",
+    "birth_year": 1966,
+    "path": "data/people/p_quoc_trung.json"
+  },
+  {
     "id": "p_quoc_truong",
     "name": "Quốc Trường",
     "birth_year": 1988,
