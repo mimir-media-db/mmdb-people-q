@@ -161,6 +161,12 @@
     "path": "data/people/p_qiao_zhenyu.json"
   },
   {
+    "id": "p_qigang_chen",
+    "name": "Qigang Chen",
+    "birth_year": 1951,
+    "path": "data/people/p_qigang_chen.json"
+  },
+  {
     "id": "p_qin_hailu",
     "name": "Qin Hailu",
     "birth_year": 1978,
