@@ -761,6 +761,12 @@
     "path": "data/people/p_quinton_jones.json"
   },
   {
+    "id": "p_quinton_peeples",
+    "name": "Quinton Peeples",
+    "birth_year": 1962,
+    "path": "data/people/p_quinton_peeples.json"
+  },
+  {
     "id": "p_quique_aguilar",
     "name": "Quique Aguilar",
     "birth_year": 1971,
