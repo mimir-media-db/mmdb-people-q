@@ -802,6 +802,11 @@
     "path": "data/people/p_quirin_oettl.json"
   },
   {
+    "id": "p_quirze_arenas",
+    "name": "Quirze Arenas",
+    "path": "data/people/p_quirze_arenas.json"
+  },
+  {
     "id": "p_quito_rayon_richter",
     "name": "Quito Rayon Richter",
     "path": "data/people/p_quito_rayon_richter.json"
