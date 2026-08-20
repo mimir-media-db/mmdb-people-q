@@ -760,6 +760,12 @@
     "path": "data/people/p_quique_camin.json"
   },
   {
+    "id": "p_quique_gonzalez",
+    "name": "Quique González",
+    "birth_year": 1973,
+    "path": "data/people/p_quique_gonzalez.json"
+  },
+  {
     "id": "p_quirin_agrippi",
     "name": "Quirin Agrippi",
     "birth_year": 2000,
