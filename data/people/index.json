@@ -601,6 +601,12 @@
     "path": "data/people/p_quim_lecina.json"
   },
   {
+    "id": "p_quim_monzo",
+    "name": "Quim Monzó",
+    "birth_year": 1952,
+    "path": "data/people/p_quim_monzo.json"
+  },
+  {
     "id": "p_quimet_pla",
     "name": "Quimet Pla",
     "birth_year": 1950,
