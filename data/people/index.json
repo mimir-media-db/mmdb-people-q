@@ -531,6 +531,12 @@
     "path": "data/people/p_quentin_merabet.json"
   },
   {
+    "id": "p_quentin_mosimann",
+    "name": "Quentin Mosimann",
+    "birth_year": 1988,
+    "path": "data/people/p_quentin_mosimann.json"
+  },
+  {
     "id": "p_quentin_plair",
     "name": "Quentin Plair",
     "birth_year": 1988,
